@@ -16,16 +16,16 @@
         android:hint="밈재가 제일 좋아요?"
         />
     <EditText
-        android:id="@+id/edit_id"
+        android:id="@+id/edit1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <Button
-        android:id="@+id/but1"
+        android:id="@+id/but_ok"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="보구시프팦"/>
     <TextView
-        android:id="@+id/but2"
+        android:id="@+id/text_result"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20sp"/>
